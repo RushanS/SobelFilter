@@ -1,3 +1,5 @@
+// Copyright © 2017 Рушан Сейфетдинов. All rights reserved.
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
